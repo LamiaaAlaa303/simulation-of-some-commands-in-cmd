@@ -1,0 +1,1 @@
+# simulation-of-some-commands-in-cmd
